@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TFTPClient", "TFTPClient\TFTPClient.vcxproj", "{E8DB820E-DF9D-489E-A3E9-A6EBF8DEAEEF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TFTPServer", "TFTPServer\TFTPServer.vcxproj", "{4E218CAA-1EB9-4781-81BE-F1E8A5FA7873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DB820E-DF9D-489E-A3E9-A6EBF8DEAEEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8DB820E-DF9D-489E-A3E9-A6EBF8DEAEEF}.Debug|x86.Build.0 = Debug|Win32
+		{E8DB820E-DF9D-489E-A3E9-A6EBF8DEAEEF}.Release|x86.ActiveCfg = Release|Win32
+		{E8DB820E-DF9D-489E-A3E9-A6EBF8DEAEEF}.Release|x86.Build.0 = Release|Win32
+		{E8DB820E-DF9D-489E-A3E9-A6EBF8DEAEEF}.Template|x86.ActiveCfg = Release|Win32
+		{E8DB820E-DF9D-489E-A3E9-A6EBF8DEAEEF}.Template|x86.Build.0 = Release|Win32
+		{4E218CAA-1EB9-4781-81BE-F1E8A5FA7873}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E218CAA-1EB9-4781-81BE-F1E8A5FA7873}.Debug|x86.Build.0 = Debug|Win32
+		{4E218CAA-1EB9-4781-81BE-F1E8A5FA7873}.Release|x86.ActiveCfg = Release|Win32
+		{4E218CAA-1EB9-4781-81BE-F1E8A5FA7873}.Release|x86.Build.0 = Release|Win32
+		{4E218CAA-1EB9-4781-81BE-F1E8A5FA7873}.Template|x86.ActiveCfg = Template|Win32
+		{4E218CAA-1EB9-4781-81BE-F1E8A5FA7873}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE702F5-BA98-459C-A530-4DB470008662}
+	EndGlobalSection
+EndGlobal

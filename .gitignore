@@ -49,3 +49,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Source/TFTPClient/Release
+/Source/TFTPClient/Debug
+*.aps
+*.plg
+/Source/TFTPServer/Release
+/Source/TFTPServer/Debug
+
